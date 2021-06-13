@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/khaja_95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaja_95/" height="30" width="40" /></a>
 </p>
 
-<h3> Work Experience </>
+<h3> Work Experience </h3>
  <p>         I have been searching for a job change, I am a 2020 graduate and I am currently working as Software Developer in NCR Corporation India with 1 year 5 months experience. I am quite good at Data Structures and Algorithms, Coding. I developed a cross-platform application in React Native and Node Js for property dealers and tenants and to post and lease/rent the properties, a tic tac toe android game and 2 websites, a Bmail application that operates on complete voice commands, and the other SKSH health tracker. Also developed a cross-platform mobile application connecting home service providers with users. </p>
  <h4>Achievements </h4>
  <p><br>
