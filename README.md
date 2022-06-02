@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3> About Me</h3>
- <p>         I am a 2020 graduate and I am currently working as Software Developer in NCR Corporation India with 1 year 5 months experience. I am quite good at Data Structures and Algorithms, Coding. I developed a cross-platform application in React Native and Node Js for property dealers and tenants and to post and lease/rent the properties, a tic tac toe android game and 2 websites, a Bmail application that operates on complete voice commands, and the other SKSH health tracker. Also developed a cross-platform mobile application connecting home service providers with users. </p>
+ <p>         I am a 2020 graduate and I am currently working as Software Developer in NCR Corporation India and I have an experience of 2.5 years. I am quite good at Data Structures and Algorithms, Coding. I developed a cross-platform application in React Native and Node Js for property dealers and tenants and to post and lease/rent the properties, a tic tac toe android game and 2 websites, a Bmail application that operates on complete voice commands, and the other SKSH health tracker. Also developed a cross-platform mobile application connecting home service providers with users. </p>
  <h4>Achievements </h4>
  <p>
 i) My team got 1st place in ACM-ICPC first round from my college.<br>
