@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohammad Khaja Kutubuddin</h1>
-<h3 align="center">Software Engineer at NCR Corporation India with an experience of 2 years.</h3>
+<h3 align="center">Software Engineer at NCR Corporation India with an experience of 2.5 years.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajakutubuddinmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khajakutubuddinmohammad" /> </p>
 
