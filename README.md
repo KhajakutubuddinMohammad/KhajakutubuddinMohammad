@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on **ATMfutura**
+- 🔭 I’m currently working on **OCEN (Open Credit Enablement Network) project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhajakutubuddinMohammad](https://github.com/KhajakutubuddinMohammad)
 
-- 📫 How to reach me **khajakutubuddin1111@gmail.com**
+- 📫 How to reach me **khajakutubuddin1111@gmail.com** or call me at ***+91-9676791136*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3> About Me</h3>
- <p>         I am a 2020 graduate and I am currently working as Software Developer in NCR Corporation India and I have an experience of 2 years 5 months. I am quite good at Data Structures and Algorithms, Coding. I developed a cross-platform application in React Native and Node Js for property dealers and tenants and to post and lease/rent the properties, a tic tac toe android game and 2 websites, a Bmail application that operates on complete voice commands, and the other SKSH health tracker. Also developed a cross-platform mobile application connecting home service providers with users. </p>
+ <p>         I am a software engineer with 3 years experience and I am currently working as Full Stack Developer in Juspay Technologies and I previously worked for NCR Corporation for 2 years 6 months. I worked on Java, Mern Stack (Mongo DB, Express, React.js, Node.js), LAMP stack (Linux, Apache, MySQL, PHP) and React Native, AWS Lambda. I am quite good at Data Structures and Algorithms, Coding. I did a few personal projects (please check my GitHub repos) using the above tech stacks. I am looking for a job change in SDE role and if you have any opportunities for me, you can reach out to me at khajakutubuddin1111@gmail.com or call me at +91-9676791136. </p>
  <h4>Achievements </h4>
  <p>
 i) My team got 1st place in ACM-ICPC first round from my college.<br>
