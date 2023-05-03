@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Khaja Mohammad</h1>
+<h1 align="center">Hi 👋, I'm  Khaja  Mohammad</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajakutubuddinmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khajakutubuddinmohammad" /> </p>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhajakutubuddinMohammad](https://github.com/KhajakutubuddinMohammad)
 
-- 📫 How to reach me **khajakutubuddin1111@gmail.com** or call me at ***+91-9676791136*
+- 📫 How to reach me **khajakutubuddin1111@gmail.com** or call me at **+91-9676791136**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
